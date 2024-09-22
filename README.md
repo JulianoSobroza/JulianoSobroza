@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JulianoSobroza
-- 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning Java, Network, AI, Linux, CyberSecurity
+- 👀 I’m interested in a lot of things
+- 🌱 I’m currently learning Java, Python, Network, AI, Linux, CyberSecurity
 
 
 <!---
