@@ -4,25 +4,10 @@
 
 ---
 
-# 👋 Olá, eu sou @JulianoSobroza | 🌱 Desenvolvedor Full Stack  
+# 👋 Olá, eu sou @JulianoSobroza
 
-Sou um desenvolvedor apaixonado por **tecnologia, IoT e automação industrial**, especializado no desenvolvimento de **sistemas de monitoramento em tempo real**. Trabalho com **aplicações web escaláveis**, **sistemas embarcados** e **infraestrutura DevOps**.  
 
----
-
-## 🚀 Tecnologias & Ferramentas  
-
-### 🛠️ Stack Principal  
-🔹 **Linguagens:** Python, JavaScript, C++ (ESP32)  
-🔹 **Frameworks:** Flask, Bootstrap  
-🔹 **IoT & Protocolos:** MQTT, REST APIs  
-🔹 **Banco de Dados:** PostgreSQL  
-🔹 **DevOps:** Docker, CI/CD, Railway  
-🔹 **Hardware:** ESP32, Sensores Industriais  
-
----
-
-## 📌 Minhas Ferramentas  
+## Tecnologias & Ferramentas  
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -40,15 +25,6 @@ Sou um desenvolvedor apaixonado por **tecnologia, IoT e automação industrial**
 
 ---
 
-## 📈 Estatísticas  
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianoSobroza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JulianoSobroza&theme=dark"/>
-</div>
-
----
-
 ## 🎓 Formação | 📫 Contato  
 
 📌 **Graduando em Engenharia de Software**  
@@ -60,7 +36,3 @@ Sou um desenvolvedor apaixonado por **tecnologia, IoT e automação industrial**
 ## 🔥 Interesses  
 
 🚀 Desenvolvimento Web | 🔗 IoT & Automação Industrial | 🔒 Segurança em IoT | ⚡ Sistemas Embarcados  
-
----
-
-💡 _“Tecnologia é sobre transformar ideias em soluções.”_ 🚀  
